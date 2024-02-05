@@ -52,7 +52,7 @@ jobs:
           plugin_music_limit: 10
           plugin_music_mode: top
           plugin_music_played_at: yes
-          plugin_music_playlist: https://open.spotify.com/playlist/7CGU9VYv0nxgS9bXympaDo?si=5d56efceb5e14c21
+          plugin_music_playlist: https://open.spotify.com/playlist/7CGU9VYv0nxgS9bXympaDo?si=7d0d0ea8f6064b6c
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_provider: spotify
           plugin_music_time_range: short
