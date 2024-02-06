@@ -52,7 +52,7 @@ jobs:
           plugin_music_limit: 10
           plugin_music_mode: playlist
           plugin_music_played_at: yes
-          plugin_music_playlist: https://open.spotify.com/playlist/7CGU9VYv0nxgS9bXympaDo?si=96867a11783348db
+          plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/7CGU9VYv0nxgS9bXympaDo?utm_source=generator" width="" height="" frameborder="0" allowtransparency="" allow=""></iframe>
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_provider: spotify
           plugin_music_time_range: short
