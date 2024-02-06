@@ -52,7 +52,7 @@ jobs:
           plugin_music_limit: 10
           plugin_music_mode: playlist
           plugin_music_played_at: yes
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/7CGU9VYv0nxgS9bXympaDo?utm_source=generator
+          plugin_music_playlist: https://open.spotify.com/playlist/7CGU9VYv0nxgS9bXympaDo?si=15c0f9260a354876
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
