@@ -50,7 +50,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_music: yes
           plugin_music_limit: 10
-          plugin_music_mode: top
+          plugin_music_mode: recent
           plugin_music_played_at: yes
           plugin_music_playlist: https://open.spotify.com/playlist/7CGU9VYv0nxgS9bXympaDo?si=15c0f9260a354876
           plugin_music_provider: spotify
