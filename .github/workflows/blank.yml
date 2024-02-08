@@ -52,7 +52,7 @@ jobs:
           plugin_music_limit: 10
           plugin_music_mode: playlist
           plugin_music_played_at: yes
-          plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/7CGU9VYv0nxgS9bXympaDo?utm_source=generator" width="" height="" frameborder="0" allowtransparency="" allow=""></iframe>
+          plugin_music_playlist: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7CGU9VYv0nxgS9bXympaDo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
