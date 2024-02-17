@@ -35,6 +35,7 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_shuffle: yes
+          plugin_anilist_user: .user.login
           plugin_languages: yes
           plugin_languages_aliases: C++, Java
           plugin_languages_analysis_timeout: 15
