@@ -33,7 +33,7 @@ jobs:
           plugin_anilist_limit: 22
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, characters
+          plugin_anilist_sections: favorites, characters, reading
           plugin_anilist_shuffle: yes
           plugin_anilist_user: Sudo23
           plugin_languages: yes
