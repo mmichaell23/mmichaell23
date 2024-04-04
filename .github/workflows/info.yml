@@ -8,7 +8,7 @@
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional,           if you want to include private repositories)
-        
+      
 name: Metrics
 on:
   # Schedule updates (each hour)
