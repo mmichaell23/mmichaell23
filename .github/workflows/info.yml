@@ -59,7 +59,6 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
           filename: anime.svg
-          token: ${{ secrets.INFO }}
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
@@ -74,7 +73,6 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
           filename: spotify.svg
-          token: ${{ secrets.INFO }}
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_music: yes
