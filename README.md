@@ -1,1 +1,1 @@
-![github-metrics](https://github.com/mmichaell23/mmichaell23/assets/93141296/0cfd4c1d-8526-445e-896a-5a1e81ff137d)
+https://gist.githubusercontent.com/mmichaell23/f524a2d6fd8fe8f64690adc5bf83e514/raw/f064f19d83b237039224ffad30039c09f0d4d07a/anime.svg
