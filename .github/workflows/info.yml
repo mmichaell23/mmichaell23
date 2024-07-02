@@ -58,7 +58,7 @@ jobs:
         plugin_topics_sort: stars
         extras_css: |
           h2 {
-          margin-bottom: 340px;
+          margin-bottom: 400px;
           }
 
                   
