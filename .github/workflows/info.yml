@@ -57,7 +57,7 @@ jobs:
         plugin_topics_mode: icons
         plugin_topics_sort: stars
         extras_css: |
-          img {
+          h2 {
           margin-bottom: 340px;
           }
 
