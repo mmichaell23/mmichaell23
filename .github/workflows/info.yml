@@ -56,6 +56,11 @@ jobs:
         plugin_topics_limit: 0
         plugin_topics_mode: icons
         plugin_topics_sort: stars
+        extras_css: |
+          img {
+          margin-bottom: 340px;
+          }
+
                   
     - name: social
       uses: lowlighter/metrics@latest
