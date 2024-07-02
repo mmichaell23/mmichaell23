@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="padding-bottom: 350px;">
+    <td style="padding-bottom: 700px;">
       <img src="https://raw.githubusercontent.com/gist/mmichaell23/f524a2d6fd8fe8f64690adc5bf83e514/raw/b7529e55ca81ed6ff2cfbf25f7c4b5437f9fb779/user.svg" alt="User" width="400">
     </td>
     <td>
