@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mmichaell23&abbreviated=true&color=red&label=Profile+Views)
 
 <div style="display: flex; align-items: flex-start;">
-    <img align="left" src="https://gist.githubusercontent.com/mmichaell23/f524a2d6fd8fe8f64690adc5bf83e514/raw/510043100128302b787f5eec0881c90659363166/user.svg" alt="User" width="350">
-    <img align="right" src="https://raw.githubusercontent.com/gist/mmichaell23/f524a2d6fd8fe8f64690adc5bf83e514/raw/6c13605fbf0b2f6a815fa160b2f001037471287f/social.svg" alt="Social" width="370">
+    <img align="left" src="https://raw.githubusercontent.com/gist/mmichaell23/f524a2d6fd8fe8f64690adc5bf83e514/raw/75814b09029bc741a82d4c4c575b9448d9196dca/user.svg" alt="User" width="350">
+    <img align="right" src="https://raw.githubusercontent.com/gist/mmichaell23/f524a2d6fd8fe8f64690adc5bf83e514/raw/75814b09029bc741a82d4c4c575b9448d9196dca/social.svg" alt="Social" width="370">
 </div>
